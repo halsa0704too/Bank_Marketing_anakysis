@@ -136,8 +136,5 @@ pip install -r requirements.txt
 
 ## **Acknowledgments**
 
-- The dataset was obtained from the UCI Machine Learning Repository: [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
-
----
-
-Feel free to tailor this README based on your specific project workflow or additional insights! Let me know if you need any modifications.
+- The dataset used in this project was obtained from Kaggle: Bank Marketing Dataset https://www.kaggle.com/datasets/nimishsawant/bankfull
+- Special thanks to the contributors who made this dataset available for analysis.
